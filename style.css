@@ -10,7 +10,11 @@ header {
   font-family: sans-serif;
 }
 
-h2, h3 {
+h2 {
+  margin-bottom: 0;
+}
+
+section h2, section h3 {
   text-align: center;
 }
 
