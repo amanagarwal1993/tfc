@@ -1,6 +1,8 @@
 html, body {
   height: 100%;
   width: 100%;
+  background: black;
+  color: white;
 }
 
 header {
@@ -17,13 +19,8 @@ header {
   margin: 0 10px -10px 0;
 }
 
-header h4 {
-  margin-top: -10px;
-  font-style: italic;
-}
-
 hr {
-  color: blue;
+  color: black;
 }
 
 section.nondev {
