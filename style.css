@@ -23,6 +23,7 @@ header {
 
 hr {
   color: black;
+  max-width: 500px;
 }
 
 section.nondev {
