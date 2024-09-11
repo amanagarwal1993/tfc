@@ -44,3 +44,7 @@ a {
   text-decoration: none;
   color: #ff6c00;
 }
+
+.center {
+  text-align: center;
+}
