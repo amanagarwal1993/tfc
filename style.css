@@ -7,12 +7,14 @@ html, body {
 
 header {
   text-align: center;
+  font-family: sans-serif;
 }
 
 .top_logo * {
   font-size: 40px;
   max-height: 50px;
   display: inline-block !important;
+  font-style: italic;
 }
 
 .top_logo img {
